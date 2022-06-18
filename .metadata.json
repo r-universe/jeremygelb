@@ -1,0 +1,10 @@
+[
+  {
+    "package": "geocmeans",
+    "oncran": true
+  },
+  {
+    "package": "spNetwork",
+    "oncran": true
+  }
+]
