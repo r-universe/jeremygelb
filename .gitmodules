@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "geocmeans"]
 	path = geocmeans
 	url = https://github.com/jeremygelb/geocmeans
-	shallow = true
-	registered = true
 [submodule "spNetwork"]
 	path = spNetwork
 	url = https://github.com/jeremygelb/spnetwork
-	shallow = true
-	registered = true
