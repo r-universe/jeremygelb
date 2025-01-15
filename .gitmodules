@@ -5,3 +5,6 @@
 [submodule "geocmeans"]
 	path = geocmeans
 	url = https://github.com/jeremygelb/geocmeans
+[submodule "spNetwork"]
+	path = spNetwork
+	url = https://github.com/jeremygelb/spnetwork
